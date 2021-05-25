@@ -1,0 +1,27 @@
+div {
+  background: black;
+  bottom: 0%;
+  width: 100%;
+  margin: -8px;
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 23px;
+  height: 30px;
+  font-family: Bahnschrift;
+}
+a {
+  list-style: none;
+  text-decoration: none;
+  color: white;
+}
+div a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+body {
+  background-image: url('https://uhdwallpapers.org/uploads/converted/18/11/02/oneplus-6t-stock-abstract-1920x1080_55964-mm-90.jpg');
+}
