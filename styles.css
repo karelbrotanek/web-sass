@@ -1,12 +1,13 @@
 div {
   background: black;
   bottom: 0%;
+  padding-bottom: 14px;
+  padding-top: 16px;
+  padding-left: 14px;
   width: 100%;
   margin: -8px;
-  float: left;
   color: #f2f2f2;
   text-align: center;
-  padding: 14px 16px;
   text-decoration: none;
   font-size: 23px;
   height: 30px;
@@ -20,7 +21,7 @@ a {
 }
 
 div a:hover {
-  background-color: #ddd;
+  background-color: black;
   color: black;
 }
 
